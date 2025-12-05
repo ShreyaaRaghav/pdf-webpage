@@ -1,0 +1,51 @@
+# CASE STUDY REPORT
+
+# Netflix Customer Data Analysis
+
+Submitted By:
+
+Member 1: Shreya Nath (245890492)
+
+Member 2: Shreya Raghav (245890448)
+
+Department: Computer Science and Engineering (AI)
+
+Semester: III
+
+Section: AI-C
+
+Course: Data Analytics
+
+Institution: Manipal Institute of Technology
+
+Date: 17-10-2025
+
+## Table of Contents
+
+1. Introduction  
+
+2. Objective  
+
+3. Data Cleaning  
+
+4. Data Integration  
+
+5. Data Reduction  
+
+6. Data Normalization  
+
+7. Hypothesis Testing  
+
+8. Data Visualization  
+
+9. Key Insights & Findings  
+
+10. Recommendations  
+
+11. Conclusion  
+
+12. Tools Used
+
+### 1. Introduction
+
+Netflix is a global leader in online streaming, serving millions of subscribers with personalized content across diverse regions. Understanding why customers leave—or “churn”—is critical for sustaining growth and improving service quality. This case study analyzes Netflix customer data to identify factors driving churn and provides actionable insights for retention strategies.
